@@ -1,4 +1,4 @@
-Simple Profile Card with HTML & CSS
+**Simple Profile Card with HTML & CSS**
 
 This is a basic profile card showcasing HTML and CSS functionalities.
 
